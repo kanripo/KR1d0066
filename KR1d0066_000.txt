@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儒行集傳
-#+DATE: 2015-09-23 09:38:26
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:10:40.164877
+#+PROPERTY: ID KR1d0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0066_WYG_000-1a>¶
 欽定四庫全書　　　　　經部四¶
 　儒行集傳　　　　　　禮類三(禮記之屬/)¶
@@ -41,4 +43,3 @@
 <pb:KR1d0066_WYG_000-3a>¶
 　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
